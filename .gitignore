@@ -11,7 +11,3 @@ Build/
 .vscode/
 *.csproj
 *.sln
-
-# Projects
-Packages/
-ProjectSettings/
